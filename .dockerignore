@@ -1,0 +1,24 @@
+# Git directory
+.git/
+.github/
+.gitignore
+
+# Build artifacts
+temp_repos/
+output/
+github-dump
+github-dump-*
+
+# Development and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Documentation
+README.md
+LICENSE
+
+# Docker files
+Dockerfile
+.dockerignore
